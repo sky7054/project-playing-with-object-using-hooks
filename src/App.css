@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.main_div{
+  border: 2px solid rgb(77,77,77);
+  margin: 5px;
+}
+
+.input-box{
+      height: 30px;
+      width: 570px;
+
+}
+.button-box{
+  height: 30px;
+  width: 50px;
+}
